@@ -3,10 +3,10 @@
 ![img](https://s1.ax1x.com/2020/07/14/UUQARs.md.jpg)
 
 #### I'm fengzw
-- I’m currently studying at a university as a postgraduate of computer science
-- I’m currently learning computer vision
-- email me: <zhiwei.feng1995@gmail.com>
-- This is my blog: <http://zhiwei-feng.gitee.io/blog/>
+- :school: I’m currently studying at a university as a postgraduate of computer science
+- :bulb: I’m currently learning computer vision
+- :email: email me: <zhiwei.feng1995@gmail.com>
+- :page_with_curl: blog: <http://zhiwei-feng.gitee.io/blog/>
 <!--
 **zhiwei-Feng/zhiwei-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
