@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![img](https://s1.ax1x.com/2020/07/14/UUQARs.md.jpg)
+
+#### I'm fengzw
+- I’m currently studying at a university as a postgraduate of computer science
+- I’m currently learning computer vision
+- How to reach me: zhiwei.feng1995@gmail.com
+- This is my blog: [http://zhiwei-feng.gitee.io/blog/](http://zhiwei-feng.gitee.io/blog/)
 <!--
 **zhiwei-Feng/zhiwei-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
