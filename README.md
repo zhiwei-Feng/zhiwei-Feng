@@ -1,8 +1,4 @@
-### Hi there 👋
-
-![img](https://s1.ax1x.com/2020/07/14/UUQARs.md.jpg)
-
-#### I'm fengzw
+### Hello, I'm fengzw👋
 - :school: I’m currently studying at a university as a postgraduate of computer science
 - :bulb: I’m currently learning computer vision
 - :email: email me: <zhiwei.feng1995@gmail.com>
