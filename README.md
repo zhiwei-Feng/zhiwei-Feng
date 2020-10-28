@@ -1,6 +1,6 @@
 ### Hello, I'm Fengzw
-- :school: I’m currently studying at a university as a postgraduate of computer science
-- :bulb: I’m currently learning computer vision and Golang
+- :heart: Golang, Python
+- :school: Focus on cs.CV currently
 - :email: email me: <zhiwei.feng1995@gmail.com>
 <!--
 **zhiwei-Feng/zhiwei-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
