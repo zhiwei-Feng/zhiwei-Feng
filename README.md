@@ -92,10 +92,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=zhiwei-Feng&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fengzw&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiwei-Feng)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
 
 
 
