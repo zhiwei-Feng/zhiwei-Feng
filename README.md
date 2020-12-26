@@ -1,7 +1,6 @@
 ### Hello, I'm Fengzw
 - :heart: Golang, Python
 - :school: Focus on cs.CV currently
-- :email: email me: <zhiwei.feng1995@gmail.com>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
