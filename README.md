@@ -46,8 +46,11 @@ Java                     1 repo              ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=zhiwei-Feng&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
