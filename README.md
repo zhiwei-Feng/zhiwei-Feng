@@ -4,7 +4,7 @@
 
 - A Student for master degree
 - Mainly use Golang, Python
-- Focus on cs.CV currently
+- Focus on computer vision currently
 - Interested in Cloud Native/Microservices
   
 <!--START_SECTION:waka-->
