@@ -8,7 +8,7 @@
 - Interested in Cloud Native/Microservices
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-442346%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-442372%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,10 +35,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/zhiwei-Feng/zhiwei-Feng/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
