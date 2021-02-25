@@ -6,6 +6,8 @@
 - Mainly use Golang, Python
 - Focus on computer vision currently
 - Interested in Cloud Native/Microservices
+- [![Gopher](https://img.shields.io/badge/belong-Gopher-blue)]
+- [![Rustacean](https://img.shields.io/badge/wanna%20be-Rustacean-orange)]
   
 <!--START_SECTION:waka-->
 ```text
