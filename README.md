@@ -5,7 +5,7 @@
 - A Student for master degree
 - Mainly use Golang, Python
 - Focus on computer vision currently
-- Interested in Cloud Native/Microservices
+- Interested in Cloud Native/Microservices/Distributed System
 - [![Gopher](https://img.shields.io/badge/as%20a-Gopher-blue)](https://img.shields.io/badge/as%20a-Gopher-blue)
 - [![Rustacean](https://img.shields.io/badge/wanna%20be-Rustacean-orange)](https://img.shields.io/badge/wanna%20be-Rustacean-orange)
   
