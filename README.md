@@ -11,13 +11,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
-Go           11 hrs 10 mins  █████████████░░░░░░░░░░░░   51.59 % 
-Java         3 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Markdown     3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Cheetah      2 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Git Config   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Go         11 hrs 14 mins  █████████████▒░░░░░░░░░░░   53.55 % 
+Markdown   3 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Cheetah    3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Java       2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Python     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 </p>
