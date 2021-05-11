@@ -4,10 +4,10 @@
 
 - Gopher
 - Master Student
-- Most use Golang
+- Use Golang/Python
 - Follow & Learn Rust
 - Focus on computer vision currently
-- Interested in Cloud Native/Microservices/Distributed System
+- Interested in Microservices/Distributed System
   
 <!--START_SECTION:waka-->
 ```text
