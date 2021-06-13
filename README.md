@@ -1,6 +1,6 @@
 ### About me
 
-<img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=zhiwei-Feng&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" width="400" />
+<img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=zhiwei-Feng&show_icons=true&theme=algolia" width="400" />
 
 - Gopher
 - Master Student
