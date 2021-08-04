@@ -16,7 +16,7 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -33,7 +33,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
 </p>
 
