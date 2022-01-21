@@ -4,7 +4,6 @@
 
 - Gopher
 - Master Student
-- Use Golang/Python
 - Follow & Learn Rust
 - Focus on computer vision currently
 - Interested in Microservices/Distributed System
