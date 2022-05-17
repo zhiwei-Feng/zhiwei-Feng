@@ -15,14 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 15 May 2022
+From: 16 April 2022 - To: 16 May 2022
 
-Go               22 hrs 9 mins   █████████████▓░░░░░░░░░░░   55.05 %
-Java             12 hrs 10 mins  ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Markdown         2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-YAML             1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-GitIgnore file   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Shell Script     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Go               22 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.17 %
+Java             12 hrs 48 mins  ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+Markdown         2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+YAML             1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+GitIgnore file   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Shell Script     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
