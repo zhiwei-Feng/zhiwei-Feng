@@ -1,16 +1,26 @@
-### About me
+## About me
 
-<img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=zhiwei-Feng&show_icons=true&theme=algolia" width="400" />
+<img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=zhiwei-Feng&show_icons=true" width="400" />
 
-- Gopher
-- Master Student
+Welcome! I’m zhiwei-Feng. I am studying for a MS degree at Fudan University.  
+
+[![Gmail Badge](https://img.shields.io/badge/-zhiwei.feng1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhiwei.feng1995@gmail.com)](mailto:zhiwei.feng1995@gmail.com)
+
+- Gopher, Javaer
 - Follow & Learn Rust
-- Focus on computer vision currently
 - Interested in Microservices/Distributed System
 
 
-<br>
-<br>
+### Technologies
+![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+
+
+
+
   
 <!--START_SECTION:waka-->
 
