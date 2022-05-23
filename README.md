@@ -25,14 +25,14 @@ Welcome! I’m zhiwei-Feng. I am studying for a MS degree at Fudan University.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2022 - To: 21 May 2022
+From: 22 April 2022 - To: 22 May 2022
 
-Go               20 hrs 36 mins  ████████████░░░░░░░░░░░░░   48.31 %
-Java             17 hrs 13 mins  ██████████░░░░░░░░░░░░░░░   40.35 %
-Markdown         1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-YAML             1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Shell Script     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-GitIgnore file   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Java                  20 hrs 34 mins  █████████████▒░░░░░░░░░░░   53.94 %
+Go                    12 hrs 1 min    ████████░░░░░░░░░░░░░░░░░   31.54 %
+Markdown              1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+YAML                  1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+GitIgnore file        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+HTTP Request          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
