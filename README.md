@@ -25,7 +25,7 @@ Welcome! I’m zhiwei-Feng. I am studying for a MS degree at Fudan University.
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 23 September 2022
+From: 25 August 2022 - To: 24 September 2022
 
 Python           6 hrs 51 mins   ███████████░░░░░░░░░░░░░░   43.57 %
 Java             3 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
