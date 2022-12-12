@@ -25,13 +25,13 @@ Welcome! I’m zhiwei-Feng. I am studying for a MS degree at Fudan University.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 09 December 2022
+From: 10 November 2022 - To: 10 December 2022
 
-Java                  51 hrs 1 min    ███████████████████▒░░░░░   77.65 %
-Python                10 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Docker                45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Text                  44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other                 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Java                  43 hrs 31 mins  ██████████████████▓░░░░░░   74.92 %
+Python                10 hrs 25 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Docker                45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Text                  44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other                 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
