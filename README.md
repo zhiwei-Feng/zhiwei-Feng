@@ -25,7 +25,7 @@ Welcome! I’m zhiwei-Feng. I am studying for a MS degree at Fudan University.
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 03 January 2023
+From: 05 December 2022 - To: 04 January 2023
 
 Markdown   15 mins         ████████████████▒░░░░░░░░   65.56 %
 Python     5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
