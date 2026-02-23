@@ -1,19 +1,64 @@
-<h1 align="center">Hi 👋, I'm zhiwei Feng</h1>
-<h3 align="center">A backend developer from China</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhiwei-feng" alt="zhiwei-feng" /></a> </p>
+# 👨‍💻 Adrian Feng
+### `Backend Engineer`
 
-- 📝 I regularly write articles on [https://zhiwei-feng.github.io/](https://zhiwei-feng.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);fmt.Println(%22Building+robust+backends...%22);print(%22Writing+Pythonic+code!%22))](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
+*Passionate about scalable architectures, elegant code, and performance optimization.*
+
+</div>
+
+---
+
+### 💻 `~/tech-stack`
+
+```bash
+❯ cat ~/.skills
+{
+  "role": "Backend Engineer",
+  "primary_languages": ["Java", "Go", "Python"],
+  "blog": "https://zhiwei-feng.github.io/",
+  "focus": ["API Design", "Microservices", "System Architecture"]
+}
+```
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhiwei-feng&show_icons=true&locale=en&layout=compact" alt="zhiwei-feng" /></p>
+### 📊 `~/github-metrics`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhiwei-feng&show_icons=true&locale=en" alt="zhiwei-feng" /></p>
+> Executing GitHub analysis: tracking Total Contributions, Streaks, and Language Distribution...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhiwei-feng&" alt="zhiwei-feng" /></p>
+<div align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhiwei-feng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub Stats" />
+  
+  <br/><br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiwei-feng&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhiwei-feng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  <a href="https://github.com/zhiwei-feng">
+    <img src="https://github-profile-trophy.vercel.app/?username=zhiwei-feng&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+
+  <br><br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=zhiwei-feng&label=profile%20views&color=10B981&style=flat-square)
+  
+</div>
