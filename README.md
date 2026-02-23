@@ -37,11 +37,11 @@
 
 <div align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhiwei-feng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhiwei-feng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub Stats" />
   
   <br/><br/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiwei-feng&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=zhiwei-feng&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
   
   <br/><br/>
   
@@ -54,7 +54,7 @@
 <div align="center">
   
   <a href="https://github.com/zhiwei-feng">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhiwei-feng&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=zhiwei-feng&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 
   <br><br>
